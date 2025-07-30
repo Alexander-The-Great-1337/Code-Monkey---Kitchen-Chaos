@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d777d270cee3a5c419cb21a828556f1a, type: 3}
+  m_Name: CodeMonkeyFreeSO
+  m_EditorClassIdentifier: 
+  currentVersion: 1.01
+  subtype: kitchenchaos
+  lastShownTimestamp: 1753864250
+  lastUpdateResponse:
+    version: 1.01
+    versionUrl: https://unitycodemonkey.com
+  checkedLastUpdateTimestamp: 1753864250
+  lastQOTDResponse:
+    questionId: 206
+    questionText: The Profiler is useful for...
+    answerA: Balancing difficulty
+    answerB: Level Design
+    answerC: Indentifying performance bottlenecks
+    answerD: 
+    answerE: 
+  lastQotdTimestamp: 1753864250
+  lastDynamicHeaderResponse:
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/summer2025CodeMonkeyBundle.png
+    topText: All my Courses (and Games) in one Bundle! DEEP DISCOUNT ONLY THIS SUMMER!
+    topLink: summer2025bundle
+    bottomText: Get my Code Monkey Toolkit and make games BETTER and FASTER! 50%
+      OFF right now!
+    bottomLink: toolkit
+  lastDynamicHeaderTimestamp: 1753864250
+  websiteLatestMessage:
+    text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
+      Click here!</a>
+  websiteLatestMessageTimestamp: 1753864250
+  websiteLatestVideos:
+    videos:
+    - youTubeId: K-AjBKP4uq0
+      title: I Made Over $1 MILLION Making Indie Games, Could YOU Do This in 2025?
+    - youTubeId: YMMS621ZoI8
+      title: NEW Steam 2025 Marketing Tips you NEED to know!
+    - youTubeId: SfZquiwnEPQ
+      title: TOP 10 NEW Systems and Tools JUNE 2025! | Unity Asset Store
+    - youTubeId: oBCXk_6Fft0
+      title: This MISTAKE cost $28,000,000!
+  websiteLatestVideosTimestamp: 1753864250
